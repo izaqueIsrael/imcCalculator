@@ -1,4 +1,4 @@
-#Calculadora de IMC
+# Calculadora de IMC
 
 Esse projeto tem o objetivo de calcular seu índice de IMC, para utiliza-lo é só abrir a página, digitar seu peso e altura e clicar em calcular
 
